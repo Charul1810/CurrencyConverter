@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.incognysissolutions.currencyconverter.Tab_Exchange_Rates">
+
+
+
+    <TextView
+        android:id="@+id/rate_time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="12dp"
+        android:textColor="#454545"
+        android:text="Last Updated on " />
+
+
+    <android.support.design.widget.CoordinatorLayout
+        android:id="@+id/main_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_scrollFlags="scroll|enterAlways"
+        >
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+
+        <ListView
+            android:id="@+id/credit_list_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:divider="#ddd"
+            android:dividerHeight="1dp"></ListView>
+
+
+    </LinearLayout>
+
+    </android.support.design.widget.CoordinatorLayout>
+</LinearLayout>

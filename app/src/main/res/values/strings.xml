@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string-array name="default_curr">
+
+        <item>AUD-Australian dollar</item>
+        <item>BGN-Bulgarian lev</item>
+        <item>BRL-Brazillian real</item>
+        <item>CAD-Canadian dollar</item>
+        <item>CHF-Swiss franc</item>
+        <item>CNY-Chinese Yuan Renminbi</item>
+        <item>CZK-Czech koruna</item>
+        <item>DKK-Danish krone</item>
+        <item>GBP-Great Britain Pound</item>
+        <item>HKD-Hong Kong dollar</item>
+        <item>HRK-Croatian kuna</item>
+        <item>HUF-Hungarian forint</item>
+        <item>IDR-Indonesian rupiah</item>
+        <item>ILS-Israeli new shekel</item>
+        <item>INR-Indian rupee</item>
+        <item>JPY-Japanese yen</item>
+        <item>KRW-South Korean won</item>
+        <item>MXN-Mexican peso</item>
+        <item>MYR-Malaysian ringgit</item>
+        <item>NOK-Norwegian krone</item>
+        <item>NZD-New Zealand dollar</item>
+        <item>PHP-Philippine peso </item>
+        <item>PLN-Polish złoty</item>
+        <item>RON-Romanian leu</item>
+        <item>RUB-Russian ruble</item>
+        <item>SEK-Swedish krona</item>
+        <item>SGD-Singapore dollar</item>
+        <item>THB-Thai baht</item>
+        <item>TRY-Turkish lira</item>
+        <item>USD-US Dollar</item>
+        <item>ZAR-South African rand</item>
+        <item>EUR-Europe</item>
+
+
+
+
+    </string-array>
+</resources>
